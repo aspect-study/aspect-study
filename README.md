@@ -1,6 +1,4 @@
-# aspect
-
-# 🏛️ Aspect | Senior Java Architect & Systems Engineer
+# 🏛️ Aspect | Systems Engineer
 
 <pre>
     _                     _           
@@ -9,20 +7,19 @@
  / ___ \\__ \ |_) |  __/ | |_ | (_) | 
 /_/   \_\___/ .__/ \___|  \__| \___/  
             |_|                        
-                                             
 </pre>
 
 ---
 
 ### 💻 Profile Summary
-Senior Java Software Developer specializing in **high-concurrency ecosystem engineering**, **multi-provider distributed integrations**, and **secure financial transactions** within the high-throughput iGaming (Gaming Service Provider) sector. 
+
+Senior Java Software Developer specializing in **high-concurrency ecosystem engineering**, **multi-provider distributed integrations**, and **secure financial transactions** within the high-throughput iGaming (Gaming Service Provider) sector.
 
 In addition to core enterprise engineering, I design systems from the ground up to experiment with emerging JVM features, assess system topology trade‑offs, and strengthen production‑ready design practices.
 
 ---
 
 ### 🛠️ Core Engineering & Architectural Stack
-
 
 | Layer | Technologies & Frameworks | Architectural Principles |
 | :--- | :--- | :--- |
@@ -56,15 +53,16 @@ In addition to core enterprise engineering, I design systems from the ground up 
 
 ### 🧮 Tech Stack Ecosystem
 
-![Java](https://shields.io)
-![Spring Boot](https://shields.io)
-![MySQL](https://shields.io)
-![Redis](https://shields.io)
-![Docker](https://shields.io)
-![GitHub Actions](https://shields.io)
+![Java](https://img.shields.io/badge/Java-8--25-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1.5--3.x-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
 ### 📬 Connect & Collaborate
-*   **GitHub Metrics:** [![Followers](https://shields.io)](https://github.com/)
+
+*   **GitHub:** [![Followers](https://img.shields.io/github/followers/aspect-study?style=social&label=Follow)](https://github.com/aspect-study)
 *   **Architectural Reviews:** Open to discussing system design exploration, critical thinking challenges, and deep technical post-mortems.
