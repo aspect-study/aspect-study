@@ -26,7 +26,7 @@ In addition to core enterprise engineering, I design systems from the ground up 
 | **Runtime & Frameworks** | Java 8–25, Spring Boot (1.5 to 3.x), Spring MVC, Maven, Gradle | Java 21+ Virtual Threads, Records, Sealed Classes, Pattern Matching |
 | **HTTP & Integration** | Feign, WebClient, HttpClient (Java 11+), RestTemplate | Decoupled Provider Abstraction Patterns, Strategic Client Selection |
 | **Persistence & Cache** | MySQL, JPA / Hibernate (Specifications & Native), Caffeine Cache, Redis | Pessimistic Locking, Explicit Transaction Boundaries, Index Optimization |
-| **Security & Resilience** | JWT, OAuth2, Bucket4j Rate Limiting, OWASP Top 10 Sanitization | Concurrency Safety, Thread-safe Data Structures, Circuit Breaking |
+| **Security & Resilience** | JWT, OAuth2, Bucket4j Rate Limiting | Concurrency Safety, Thread-safe Data Structures, Circuit Breaking |
 | **DevOps & Reliability** | Docker, Docker Compose, GitHub Actions, Jenkins | Spring Boot Actuator, System Monitoring & Health Checks |
 | **Quality Assurance** | JUnit 5, Mockito, Integration Testing Architectures | TDD, Design for Testability, SOLID, Explicit-over-Implicit Style |
 
